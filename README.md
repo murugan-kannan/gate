@@ -1,6 +1,6 @@
-#Gate 2021
+# Gate 2021
 
-#Section1: Engineering Mathematics
+## Section1: Engineering Mathematics
 Discrete Mathematics: Propositional and first order logic. Sets, relations, functions, partial
 orders and lattices. Groups. Graphs: connectivity, matching, coloring. Combinatorics:
 counting, recurrence relations, generating functions.
