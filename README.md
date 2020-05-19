@@ -29,3 +29,7 @@ Processes, threads, inter‐process communication, concurrency and synchronizati
 ER‐model. Relational model: relational algebra, tuple calculus, SQL. Integrity constraints, normal forms. File organization, indexing (e.g., B and B+ trees). Transactions and concurrency control.
 ## Section 10: Computer Networks: [7-8]
 Concept of layering. LAN technologies (Ethernet). Flow and error control techniques, switching. IPv4/IPv6, routers and routing algorithms (distance vector, link state). TCP/UDP and sockets, congestion control. Application layer protocols (DNS, SMTP, POP, FTP, HTTP). Basics of Wi-Fi. Network security: authentication, basics of public key and private key cryptography, digital signatures and certificates, firewalls. 
+
+
+## Links
+https://www.geeksforgeeks.org/gate-cs-notes-gq/
