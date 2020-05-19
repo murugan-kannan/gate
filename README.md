@@ -1,13 +1,14 @@
 # Gate 2021
 
 ## Section1: Engineering Mathematics
-Discrete Mathematics: Propositional and first order logic. Sets, relations, functions, partial
+### Discrete Mathematics: 
+Propositional and first order logic. Sets, relations, functions, partial
 orders and lattices. Groups. Graphs: connectivity, matching, coloring. Combinatorics:
 counting, recurrence relations, generating functions.
 Linear Algebra: Matrices, determinants, system of linear equations, eigenvalues and
 eigenvectors, LU decomposition.
-Calculus: Limits, continuity and differentiability. Maxima and minima. Mean value
-theorem. Integration.
+### Calculus:
+Limits, continuity and differentiability. Maxima and minima. Mean value theorem. Integration.
 Probability: Random variables. Uniform, normal, exponential, poisson and binomial
 distributions. Mean, median, mode and standard deviation. Conditional probability and
 Bayes theorem.
