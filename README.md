@@ -32,5 +32,6 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 
 
 ## Links
-[Gate CS - geeksforgeeks] (https://www.geeksforgeeks.org/gate-cs-notes-gq/)
-[Visualiztion] (https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+[Gate CS - geeksforgeeks](https://www.geeksforgeeks.org/gate-cs-notes-gq/)
+
+[Visualiztion](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
