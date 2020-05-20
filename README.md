@@ -39,3 +39,5 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 [Topic wise multiple choice questions in computer science](https://www.geeksforgeeks.org/quiz-corner-gq/)
 
 [Sliding Window Animation](https://www.ccs-labs.org/teaching/rn/animations/gbn_sr/)
+
+[Calculator](https://www.tcsion.com/OnlineAssessment/ScientificCalculator/Calculator.html)
