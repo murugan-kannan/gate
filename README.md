@@ -38,6 +38,9 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 
 [NPTEL](https://nptel.ac.in/courses/106/106/106106183/#)
 
+### Programming and Data Structures
+[NPTEL - Videos](https://nptel.ac.in/courses/106/106/106106133/)
+
 ### Data Structures and Algorithms
 [Visualiztion - Data Structures and Algorithms](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
@@ -50,12 +53,14 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 [NPTEL](https://nptel.ac.in/courses/106/106/106106144/)
 
 ### DBMS
-[NPTEL - content](https://nptel.ac.in/courses/106/106/106106095/#)
+[NPTEL - Content](https://nptel.ac.in/courses/106/106/106106095/#)
 
-[NPTEL -videos](https://nptel.ac.in/courses/106/106/106106220/)
+[NPTEL - Videos](https://nptel.ac.in/courses/106/106/106106220/)
 
 ### Computer Networks
 [Sliding Window Animation](https://www.ccs-labs.org/teaching/rn/animations/gbn_sr/)
+
+[NPTEL - Content](https://nptel.ac.in/courses/106/106/106106091/)
 
 ### Calulator
 [Calculator](https://www.tcsion.com/OnlineAssessment/ScientificCalculator/Calculator.html)
