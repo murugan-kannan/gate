@@ -44,6 +44,8 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 ### Theroy of Computations
 [NPTEL - Youtube](https://www.youtube.com/playlist?list=PL85CF9F4A047C7BF7)
 
+[NPTEL](https://nptel.ac.in/courses/106/106/106106049/)
+
 ### DBMS
 [NPTEL](https://nptel.ac.in/courses/106/106/106106095/#)
 
