@@ -33,17 +33,22 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 
 ## Links
 
+### Discrete Mathematics
+[NPTEL - Youtube](https://swayam.gov.in/nd1_noc20_cs37/preview) 
+
+[NPTEL](https://nptel.ac.in/courses/106/106/106106183/#)
+
 ### Data Structures and Algorithms
 [Visualiztion - Data Structures and Algorithms](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
-### Computer Networks
-[Sliding Window Animation](https://www.ccs-labs.org/teaching/rn/animations/gbn_sr/)
-
-### Discrete Mathematics
-[NPTEL - Youtube](https://swayam.gov.in/nd1_noc20_cs37/preview)
-[NPTEL](https://nptel.ac.in/courses/106/106/106106183/#)
 ### Theroy of Computations
 [NPTEL - Youtube](https://www.youtube.com/playlist?list=PL85CF9F4A047C7BF7)
+
+### DBMS
+(NPTEL)[https://nptel.ac.in/courses/106/106/106106095/#]
+
+### Computer Networks
+[Sliding Window Animation](https://www.ccs-labs.org/teaching/rn/animations/gbn_sr/)
 
 ### Calulator
 [Calculator](https://www.tcsion.com/OnlineAssessment/ScientificCalculator/Calculator.html)
