@@ -34,7 +34,9 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 ## Links
 
 ### Discrete Mathematics
-[NPTEL - Youtube](https://swayam.gov.in/nd1_noc20_cs37/preview) 
+[NPTEL - swayam](https://swayam.gov.in/nd1_noc20_cs37/preview) 
+
+[NPTEL - Youtube](https://www.youtube.com/playlist?list=PL0862D1A947252D20)
 
 [NPTEL](https://nptel.ac.in/courses/106/106/106106183/#)
 
