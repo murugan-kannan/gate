@@ -38,6 +38,9 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 
 [NPTEL](https://nptel.ac.in/courses/106/106/106106183/#)
 
+### Computer Architecture
+[NPTEL](https://nptel.ac.in/courses/106/106/106106092/)
+
 ### Programming and Data Structures
 [NPTEL - Videos](https://nptel.ac.in/courses/106/106/106106133/)
 
