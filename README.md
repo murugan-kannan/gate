@@ -32,16 +32,27 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 
 
 ## Links
-[Gate CS - geeksforgeeks](https://www.geeksforgeeks.org/gate-cs-notes-gq/)
 
-[Visualiztion - Data Structures and Algorithms](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+### Data Structures and Algorithms
+[Visualiztion - Data Structures and Algorithms](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 
-[Topic wise multiple choice questions in computer science](https://www.geeksforgeeks.org/quiz-corner-gq/)
-
+### Computer Networks
 [Sliding Window Animation](https://www.ccs-labs.org/teaching/rn/animations/gbn_sr/)
 
+### Discrete Mathematics
+[NPTEL - Youtube](https://swayam.gov.in/nd1_noc20_cs37/preview)
+
+### Theroy of Computations
+[NPTEL - Youtube](https://www.youtube.com/playlist?list=PL85CF9F4A047C7BF7)
+
+### Calulator
 [Calculator](https://www.tcsion.com/OnlineAssessment/ScientificCalculator/Calculator.html)
 
-[Free Videos from GradeUP](https://gradeup.co/free-video-lectures/computer-science-engineering)
+### Gradeup
+[Free Videos from Gradeup](https://gradeup.co/free-video-lectures/computer-science-engineering)
 
-[Discrete Mathematics](https://swayam.gov.in/nd1_noc20_cs37/preview)
+### Notes and Quizs
+[Gate CS - geeksforgeeks](https://www.geeksforgeeks.org/gate-cs-notes-gq/)
+[Topic wise multiple choice questions in computer science](https://www.geeksforgeeks.org/quiz-corner-gq/)
+
+
