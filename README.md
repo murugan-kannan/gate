@@ -43,3 +43,5 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 [Calculator](https://www.tcsion.com/OnlineAssessment/ScientificCalculator/Calculator.html)
 
 [Free Videos from GradeUP](https://gradeup.co/free-video-lectures/computer-science-engineering)
+
+[Discrete Mathematics](https://swayam.gov.in/nd1_noc20_cs37/preview)
