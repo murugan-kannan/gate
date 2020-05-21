@@ -81,4 +81,5 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 
 [NPTEL](https://nptel.ac.in/gate_paper.html)
 
-
+### Others
+[Youtube](https://www.youtube.com/channel/UCxJp9aEteKmOeobEsHXwxAw)
