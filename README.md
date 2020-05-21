@@ -55,4 +55,8 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 [Gate CS - geeksforgeeks](https://www.geeksforgeeks.org/gate-cs-notes-gq/)
 [Topic wise multiple choice questions in computer science](https://www.geeksforgeeks.org/quiz-corner-gq/)
 
+### Previous Year 
+
+[NPTEL](https://nptel.ac.in/gate_paper.html)
+
 
