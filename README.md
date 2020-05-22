@@ -69,6 +69,8 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 
 [NPTEL - Content](https://nptel.ac.in/courses/106/106/106106091/)
 
+[NPTEL - Youtube](https://www.youtube.com/playlist?list=PL32DBC269EF768F74)
+
 ### Calulator
 [Calculator](https://www.tcsion.com/OnlineAssessment/ScientificCalculator/Calculator.html)
 
