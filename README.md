@@ -64,6 +64,8 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 
 [NPTEL - Videos](https://nptel.ac.in/courses/106/106/106106093/)
 
+[NPTEL - YouTube](https://www.youtube.com/playlist?list=PLIwC9bZ0rmjSkm1VRJROX4vP2YMIf4Ebh)
+
 ### Computer Networks
 [Sliding Window Animation](https://www.ccs-labs.org/teaching/rn/animations/gbn_sr/)
 [Propagation](https://www.ccs-labs.org/teaching/rn/animations/propagation/)
@@ -82,6 +84,7 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 
 ### Notes and Quizs
 [Gate CS - geeksforgeeks](https://www.geeksforgeeks.org/gate-cs-notes-gq/)
+
 [Topic wise multiple choice questions in computer science](https://www.geeksforgeeks.org/quiz-corner-gq/)
 
 ### Previous Year 
