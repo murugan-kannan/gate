@@ -66,6 +66,7 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 
 ### Computer Networks
 [Sliding Window Animation](https://www.ccs-labs.org/teaching/rn/animations/gbn_sr/)
+[Propagation](https://www.ccs-labs.org/teaching/rn/animations/propagation/)
 
 [NPTEL - Content](https://nptel.ac.in/courses/106/106/106106091/)
 
