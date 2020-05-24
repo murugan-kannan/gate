@@ -46,6 +46,8 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 ### Programming and Data Structures
 [NPTEL - Videos](https://nptel.ac.in/courses/106/106/106106133/)
 
+[Data Structures](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+
 ### Data Structures and Algorithms
 [Visualiztion - Data Structures and Algorithms](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
