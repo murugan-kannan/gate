@@ -49,6 +49,8 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 ### Data Structures and Algorithms
 [Visualiztion - Data Structures and Algorithms](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
+[Algorithms](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+
 ### Theroy of Computations
 [NPTEL - Youtube](https://www.youtube.com/playlist?list=PL85CF9F4A047C7BF7)
 
