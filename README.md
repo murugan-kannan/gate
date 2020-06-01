@@ -40,6 +40,8 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 
 [NPTEL](https://nptel.ac.in/courses/106/106/106106183/#)
 
+[Truth Table Generator](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)
+
 ### Computer Architecture
 [NPTEL](https://nptel.ac.in/courses/106/106/106106092/)
 
