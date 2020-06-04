@@ -57,6 +57,8 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 
 [Algorithms](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
+[My Code School](https://www.youtube.com/user/mycodeschool/playlists)
+
 ### Theroy of Computations
 [NPTEL - Youtube](https://www.youtube.com/playlist?list=PL85CF9F4A047C7BF7)
 
