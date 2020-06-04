@@ -42,6 +42,8 @@ Concept of layering. LAN technologies (Ethernet). Flow and error control techniq
 
 [Truth Table Generator](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)
 
+[thetrevtutor](https://www.youtube.com/user/thetrevtutor/about)
+
 ### Computer Architecture
 [NPTEL](https://nptel.ac.in/courses/106/106/106106092/)
 
