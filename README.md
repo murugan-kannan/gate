@@ -1,4 +1,4 @@
-# Gate 2021
+# Gate 2022
 
 ## Section1: Engineering Mathematics
 ### Discrete Mathematics: [10-11]
